@@ -1,2 +1,3 @@
-# Novi-Apriani
-06TPLM004
+# UTS_Kecerdasan Buatan
+# NoviApriani
+# 06TPLM004
